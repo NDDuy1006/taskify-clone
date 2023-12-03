@@ -21,7 +21,7 @@ const Logo = () => {
           "text-lg text-neutral-700 px-1",
           headingFont.className
         )}>
-          Taskify
+          TaskVista
         </p>
       </div>
     </Link>
