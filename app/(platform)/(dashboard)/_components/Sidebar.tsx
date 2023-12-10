@@ -39,7 +39,7 @@ const Sidebar = ({ storageKey = "t-sidebar-state" }: IProps) => {
       if (expanded[key]) {
         acc.push(key);
       }
-
+      
       return acc;
     }, []);
   
