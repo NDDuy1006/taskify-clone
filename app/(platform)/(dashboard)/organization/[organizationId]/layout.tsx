@@ -10,3 +10,5 @@ const OrganizationIdLayout = ({
     </>
   );
 };
+
+export default OrganizationIdLayout;
